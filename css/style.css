@@ -131,10 +131,10 @@ section {
     border: #FE8E5E solid 1px;
 }
 
-.slide:hover,
+/* .slide:hover,
 .slide:focus {
   box-shadow: inset 6.5em 0 0 0 var(--hover);
-}
+} */
 
 /* .offset {
     box-shadow: 0.3em 0.3em 0 0 var(--color), inset 0.3em 0.3em 0 0 var(--color);
